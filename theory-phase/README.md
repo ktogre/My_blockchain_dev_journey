@@ -10,12 +10,11 @@ Logs are organized by day. Start here:
  [Daily Logs](./daily-logs)
 
 ##  Weekly Recaps
-
-- [Week 1 (Day 1–7)](./weekly-recaps/week-1.md)
-- [Week 2 (Day 8–14)](./weekly-recaps/week-2.md)
-- [Week 3 (Day 15–21)](./weekly-recaps/week-3.md)
-- [Week 4 (Day 22–27)](./weekly-recaps/week-4.md)
-- [Week 4 (Day 22–27)](./weekly-recaps/week-4.md)
+- [Week 1 (Day 1–7)](./weekly-recaps/week-01.md)
+- [Week 2 (Day 8–14)](./weekly-recaps/week-02.md)
+- [Week 3 (Day 15–21)](./weekly-recaps/week-03.md)
+- [Week 4 (Day 22–27)](./weekly-recaps/week-04.md)
+- [Week 5 (Day 27–34)](./weekly-recaps/week-05.md)
 
 ##  Final Summary
 
