@@ -28,4 +28,4 @@ Remix IDE
 ---
 
 ### • Contract  
-Check out the simple contract I wrote here: [Basic wallet](./basic-wallet.sol)
+Check out the simple contract here: [Basic wallet](./basic-wallet.sol)
