@@ -9,7 +9,7 @@ This repository tracks my hands-on progress as I learn and practice writing smar
 
 ## What You'll Find Here
 
--  Solidity smart contracts (Updated daily or ocassionally).
+-  Solidity smart contracts (Updated weekly).
 -  Basic to intermediate examples covering common patterns.
 -  Focused learning per contract — clear naming, comments, and logic.
 -  No deployment scripts or testing framework (yet)
