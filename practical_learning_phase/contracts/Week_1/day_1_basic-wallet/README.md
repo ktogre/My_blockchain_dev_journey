@@ -1,21 +1,21 @@
 ## (July 21, 2025)  
 ### DAY 36 — BLOCKCHAIN-DEV LEARNING LOG  
-**"Solidity"**
+*Solidity*
 
 ---
 
-### • Focus Areas  
+### Focus Areas  
 **Introduction to Smart Contracts & Solidity Basics**  
 (`uint`, `address`, `bool`, `payable`, `owner`, `msg.sender`, and `msg.value`, etc.)
 
 ---
 
-### • Tools  
+### Tools  
 Remix IDE
 
 ---
 
-### • Summary
+### Summary
 
 - `uint`: Unsigned integer (stores positive values).
 - `bool`: Stores `true` or `false`.
@@ -27,5 +27,5 @@ Remix IDE
 
 ---
 
-### • Contract  
+### Contract  
 Check out the simple contract here: [Basic wallet](./basic-wallet.sol)

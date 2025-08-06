@@ -1,21 +1,21 @@
 ## (July 22, 2025)  
 ### DAY 37 — BLOCKCHAIN-DEV LEARNING LOG  
-**"Solidity"**
+*Solidity*
 
 ---
 
-### • Focus Areas  
+### Focus Areas  
 Control Logic and Function Visibility  
 (require(), revert(), assert(), view, pure, payable, public, private, internal, external)
 
 ---
 
-### • Tools  
+### Tools  
 Remix IDE
 
 ---
 
-### • Summary
+### Summary
 
 - require(): Used to validate inputs and conditions. Reverts if the condition fails.  
 - revert(): Explicitly reverts execution with a custom error message.  
@@ -30,5 +30,5 @@ Remix IDE
 
 ---
 
-### • Contract  
+### Contract  
 Check out the practice contract here: [Secure Wallet](./secure_wallet.sol)

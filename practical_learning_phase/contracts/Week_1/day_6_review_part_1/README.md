@@ -1,20 +1,20 @@
 ## (July 26, 2025)  
 ### DAY 41 — BLOCKCHAIN-DEV LEARNING LOG  
-"Solidity"
+*Solidity*
 
 ---
 
-### • Focus Areas  
+### Focus Areas  
 Review Day 1
 
 ---
 
-### • Tools  
+### Tools  
 Remix IDE
 
 ---
 
-### • Summary  
+### Summary  
 The first part of this week in a nutshell:  
 I learned the basic structure of a smart contract, the version declarations (pragma), and the License usage (`// SPDX...`).  
 • Used msg.sender to access caller identity, and msg.value to track the value of ETH sent in a contract.  

@@ -1,11 +1,11 @@
 ## (July 27, 2025)  
 ### DAY 42 — BLOCKCHAIN-DEV LEARNING LOG  
-"Solidity"
+*Solidity*
 
 ---
 
-### • Focus Areas  
-Review Day 2
+### Focus Areas  
+Review: Day 2
 
 ---
 
