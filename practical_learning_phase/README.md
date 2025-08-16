@@ -15,11 +15,10 @@ check out the first week here: [Weekly practice contracts](./contracts/Week_1/)
 
 ## License  
 All code in this repository is released under the [MIT License](/practical-phase/LICENSE).    
-Feel free to learn, reuse, or adapt anything — just give credit.
+Feel free to learn, reuse, or adapt anything.
 
   
 ## Author  
 Name: Ktogre    
 Started: July 2025    
 Goal: To Become a blockchain developer  
-

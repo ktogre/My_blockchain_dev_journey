@@ -1,5 +1,3 @@
-## (July 22, 2025)  
-### DAY 37 — BLOCKCHAIN-DEV LEARNING LOG  
 *Solidity*
 
 ---

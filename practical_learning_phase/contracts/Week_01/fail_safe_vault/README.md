@@ -1,5 +1,3 @@
-## (July 25, 2025)  
-### DAY 40 — BLOCKCHAIN-DEV LEARNING LOG  
 *Solidity*
 
 ---

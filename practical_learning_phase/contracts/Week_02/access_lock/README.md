@@ -1,5 +1,3 @@
-## (August 1, 2025)  
-### DAY 47 — BLOCKCHAIN-DEV LEARNING LOG  
 *Solidity*
 
 ---
