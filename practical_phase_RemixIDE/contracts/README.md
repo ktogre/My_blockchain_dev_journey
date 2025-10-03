@@ -2,7 +2,7 @@
 
 This repository tracks my hands-on progress as I learn and practice writing smart contracts using Remix IDE.
 
-> NOTE: This repo does not use a full local development environment (like Hardhat or Foundry) yet as my skill is yet to reach that level(I mean common, I am justing starting this).  
+> NOTE: This repo does not use a full local development environment (like Hardhat or Foundry) yet as my skill is yet to reach that level.  
 > All contracts are written, compiled, and tested directly in [Remix IDE](https://remix.ethereum.org/).
 
 ---

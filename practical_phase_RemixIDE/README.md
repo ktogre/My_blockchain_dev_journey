@@ -4,7 +4,7 @@ Welcome to my playground
   
 This repository tracks my hands-on progress as I go from beginner to a market-ready blockchain developer. Every contract here is a step toward mastering the Ethereum ecosystem, smart contract architecture, dApps, and Web3 protocols.
 
-You can view all contracts here: [View all contracts](./contracts/), they are updated on a weekly basis.
+You can view all contracts here: [View all contracts](./contracts/).
 check out the first week here: [Weekly practice contracts](./contracts/Week_1/)
 
   
