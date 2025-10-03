@@ -1,11 +1,8 @@
-# My developer playground  
-  
-Welcome to my playground  
+# RemixIDE Based Smart Contracts
   
 This repository tracks my hands-on progress as I go from beginner to a market-ready blockchain developer. Every contract here is a step toward mastering the Ethereum ecosystem, smart contract architecture, dApps, and Web3 protocols.
 
-You can view all contracts here: [View all contracts](./contracts/).
-check out the first week here: [Weekly practice contracts](./contracts/Week_1/)
+You can view all contracts here: [View all contracts](./contracts/)
 
   
 ## Disclaimer      
@@ -14,11 +11,11 @@ check out the first week here: [Weekly practice contracts](./contracts/Week_1/)
   
 
 ## License  
-All code in this repository is released under the [MIT License](/practical-phase/LICENSE).    
+All code in this repository is released under the [MIT License](./LICENSE)    
 Feel free to learn, reuse, or adapt anything.
 
   
 ## Author  
 Name: Ktogre    
 Started: July 2025    
-Goal: To Become a blockchain developer  
+Goal: To Become a blockchain developer.
